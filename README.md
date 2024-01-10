@@ -12,5 +12,6 @@ Spring 프레임 워크를 사용하여 제작한 놀이공원(DD Land) 홈페�
 
 ## 개요
 - 프로젝트명: DD Land
-- 프로젝트 기간: 
+- 프로젝트 기간:
+- 개발 환경: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> 
 
