@@ -1,17 +1,70 @@
-# [2023] 놀이공원 홈페이지 제작
-Spring 프레임 워크를 사용하여 제작한 놀이공원(DD Land) 홈페이지입니다.
-놀이공원 홈페이지를 방문하는 사용자에게는 놀이공원의 다양한 정보를 제공하고,
-놀이공원 홈페이지를 관리하는 관리자에게는 높은 사용성의 관리자 전용 페이지를 제공합니다.
-지금 바로 DD Land로 오는 티켓을 구매해보러 가실래요?
+# [Spring Project(2023)] 놀이공원 웹사이트
+끝이 없는 즐거움, DD Land에 오신 것을 환영합니다!🎡 지금 바로 DD Land 입장권을 구매해보러 가볼까요?😊
 
 ## 목차
-- 개요
-- 기획 의도
-- 개발 목표
-- 구현 기능 소개
+- 프로젝트 개요
+- 기획 배경
+- 구현 목표
+- 벤치마킹
+- 업무 분담
+- 프로젝트 구조
+- 개발 과정
+- 산출물
+- 주요 기능(구현 기능)
 
-## 개요
+### 프로젝트 개요
 - 프로젝트명: DD Land
-- 프로젝트 기간:
-- 개발 환경: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"> 
+- 주제: Spring Framework를 활용하여 제작한 놀이공원(DD Land) 웹사이트입니다.
+- 개발 일정: 2023.12.18 ~ 2023.12.27(10일)
+- 개발 환경: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
 
+### 기획 배경
+- **어트랙션 예약**: 방문 당일 희망 시간에 미리 어트랙션을 예약하여 놀이공원 방문객의 편의성 추구
+- **놀이기구 및 코스 추천**: 개개인의 성향에 맞게 놀이기구 또는 코스를 추천하여 새로운 즐거움 추구
+- **기프트샵 판매 물품 구매**: 별도 놀이공원 방문 없이도 공원 내 기프트샵의 판매 물품을 온라인으로 구매 가능하도록 하여 이용자 편의성 및 접근성 향상
+- **Spring MVC Model 및 디자인 패턴 적용**: 효과적인 설계를 위해 디자인 패턴 활용, 계층을 분리하여 유지보수성과 확장성 확보
+
+### 구현 목표
+ - **사용자 친화적인 디자인 제공**
+   - 회원/관리자 페이지 구분하여 별도 분리
+   - 반응형 웹을 활용한 모바일 최적화 제공
+ - **Web Socket 및 Open API 활용**
+   - 사용자들간의 실시간 소통을 위해 Web Socket을 활용하여 채팅 기능 구현
+   - Open API를 사용하여 외부 데이터를 통한 다양한 정보 제공
+ - **Spring Security를 활용하여 인증 및 권한 부여**
+   - Spring Security를 활용하여 회원/관리자별 권한 부여
+ - **Elasticsearch 활용**
+   - Elasticsearch를 활용하여 검색 기능 구현
+
+### 벤치마킹
+롯데월드 홈페이지
+
+### 업무 분담
+- 김형우: 요금/혜택, 로그인
+- 박나래: 액티비티
+- 이승원: 추천, 월드컵
+- 이정은: 이용가이드, 운휴, 채팅
+- 차민재: 샵, 티켓
+- 차수민: 커뮤니티
+- 황주원: 마이페이지
+
+### 프로젝트 구조
+- Spring MVC Pattern
+- Controller - Service - DAO - DAOImplement - Mapper
+- MyBatis
+
+### 개발 과정
+
+### 산출물
+- 기획서
+- 요구분석서
+- 순서도
+- 데이터베이스 설계(ERD)
+- 화면 설계서
+- DDL
+- DML
+- PPT
+- 개발문서
+- 요약본
+
+### 주요 기능(구현 기능)
