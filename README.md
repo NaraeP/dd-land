@@ -2,21 +2,25 @@
 끝이 없는 즐거움, DD Land에 오신 것을 환영합니다!🎡 지금 바로 DD Land 입장권을 구매해보러 가볼까요?😊
 
 ## 목차
-- 프로젝트 개요
-- 기획 배경
-- 구현 목표
-- 벤치마킹
-- 업무 분담
-- 프로젝트 구조
-- 개발 과정
-- 산출물
-- 주요 기능(구현 기능)
+- [프로젝트 개요](#프로젝트-개요)
+- [기획 배경](#기획-배경)
+- [구현 목표](#구현-목표)
+- [벤치마킹](#벤치마킹)
+- [업무 분담](#업무-분담)
+- [주요 구현 기능](#주요-구현-기능)
+- [산출물](#산출물)
 
 ### 프로젝트 개요
 - 프로젝트명: DD Land
 - 주제: Spring Framework를 활용하여 제작한 놀이공원(DD Land) 웹사이트입니다.
+- 개발 환경
+  - Front-End: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
+  - Back-End: <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white">
+  - Database: <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  - Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 - 개발 일정: 2023.12.18 ~ 2023.12.27(10일)
-- 개발 환경: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+- 벤치마킹: 롯데월드 웹사이트(https://adventure.lotteworld.com/kor/main/index.do)
+  <img src="">
 
 ### 기획 배경
 - **어트랙션 예약**: 방문 당일 희망 시간에 미리 어트랙션을 예약하여 놀이공원 방문객의 편의성 추구
@@ -55,6 +59,9 @@
 
 ### 개발 과정
 
+
+### 주요 구현 기능
+
 ### 산출물
 - 기획서
 - 요구분석서
@@ -66,5 +73,3 @@
 - PPT
 - 개발문서
 - 요약본
-
-### 주요 기능(구현 기능)
