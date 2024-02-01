@@ -2,12 +2,12 @@
 끝이 없는 즐거움, DD Land에 오신 것을 환영합니다!🎡 지금 바로 DD Land 입장권을 구매해보러 가볼까요?😊
 
 ## 🔖 목차
-- [📄 프로젝트 개요](#프로젝트-개요)
-- [✒️ 기획 배경](#기획-배경)
-- [📌 구현 목표](#구현-목표)
+- [📄 프로젝트 개요](https://github.com/NaraeP/dd-land/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
+- [✒️ 기획 배경](https://github.com/NaraeP/dd-land/blob/main/README.md#%EF%B8%8F-%EA%B8%B0%ED%9A%8D-%EB%B0%B0%EA%B2%BD)
+- [📌 구현 목표](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EA%B5%AC%ED%98%84-%EB%AA%A9%ED%91%9C)
 - [👨‍👩‍👧‍👦 업무 분담](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EC%97%85%EB%AC%B4-%EB%B6%84%EB%8B%B4)
-- [👩‍💻 주요 구현 기능](#주요-구현-기능)
-- [📚 산출물](#산출물)
+- [👩‍💻 주요 구현 기능](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EC%A3%BC%EC%9A%94-%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5)
+- [📚 산출물](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EC%82%B0%EC%B6%9C%EB%AC%BC)
 
 ### 📄프로젝트 개요
 - 프로젝트명: DD Land
