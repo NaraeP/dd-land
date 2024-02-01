@@ -5,8 +5,7 @@
 - [프로젝트 개요](#프로젝트-개요)
 - [기획 배경](#기획-배경)
 - [구현 목표](#구현-목표)
-- [벤치마킹](#벤치마킹)
-- [업무 분담](#업무-분담)
+- [👨‍👩‍👧‍👦 업무 분담](#👨‍👩‍👧‍👦-업무-분담)
 - [주요 구현 기능](#주요-구현-기능)
 - [산출물](#산출물)
 
@@ -18,9 +17,10 @@
   - Back-End: <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white">
   - Database: <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
   - Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+- 사용 기술: Spring MVC Pattern, Spring Security, Ajax, OpenAPI, MyBatis, Elasticsearch, Web Socket, Modal, Restful API, Tiles
 - 개발 일정: 2023.12.18 ~ 2023.12.27(10일)
 - 벤치마킹: 롯데월드 웹사이트(https://adventure.lotteworld.com/kor/main/index.do)
-  <img src="">
+  <p><img src="https://github.com/smcha16/dd-land/assets/140796673/4783fe35-a148-4888-9fde-3f7261ea7a0f"></p>
 
 ### 기획 배경
 - **어트랙션 예약**: 방문 당일 희망 시간에 미리 어트랙션을 예약하여 놀이공원 방문객의 편의성 추구
@@ -40,10 +40,7 @@
  - **Elasticsearch 활용**
    - Elasticsearch를 활용하여 검색 기능 구현
 
-### 벤치마킹
-롯데월드 홈페이지
-
-### 업무 분담
+### 👨‍👩‍👧‍👦 업무 분담
 - 김형우: 요금/혜택, 로그인
 - 박나래: 액티비티
 - 이승원: 추천, 월드컵
@@ -51,14 +48,6 @@
 - 차민재: 샵, 티켓
 - 차수민: 커뮤니티
 - 황주원: 마이페이지
-
-### 프로젝트 구조
-- Spring MVC Pattern
-- Controller - Service - DAO - DAOImplement - Mapper
-- MyBatis
-
-### 개발 과정
-
 
 ### 주요 구현 기능
 
