@@ -28,7 +28,7 @@
   - Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 - 사용 기술: Spring MVC Pattern, Spring Security, Ajax, OpenAPI, MyBatis, Elasticsearch, Web Socket, Modal, Restful API, Tiles
 - 개발 일정: 2023.12.18 ~ 2023.12.27(10일)
-- 벤치마킹: 롯데월드 웹사이트(https://adventure.lotteworld.com/kor/main/index.do)
+- 벤치마킹: 롯데월드 웹사이트(<a href="https://adventure.lotteworld.com/kor/main/index.do" target="_blank">https://adventure.lotteworld.com/kor/main/index.do</a>)
   <p><img src="https://github.com/smcha16/dd-land/assets/140796673/4783fe35-a148-4888-9fde-3f7261ea7a0f"></p>
 
 ### ✒️기획 배경
