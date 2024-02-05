@@ -1,5 +1,7 @@
 # [Spring Project(2023)] 놀이공원 웹사이트
-끝이 없는 즐거움, DD Land에 오신 것을 환영합니다!🎡 지금 바로 DD Land 입장권을 구매해보러 가볼까요?😊
+끝이 없는 즐거움, DD Land에 오신 것을 환영합니다!🎡<br>
+사용자에게는 놀이공원의 다양한 정보를 제공하고, 웹사이트 관리자에게는 높은 사용성의 관리자 전용 페이지를 제공합니다.<br>
+지금 바로 DD Land 입장권을 구매해보러 가볼까요?😊
 
 ## 🔖 목차
 - [📄 프로젝트 개요](#프로젝트-개요)
@@ -19,16 +21,15 @@
 -->
 
 ### 📄프로젝트 개요
-- 프로젝트명: DD Land
-- 주제: Spring Framework를 활용하여 제작한 놀이공원(DD Land) 웹사이트입니다.
-- 개발 환경
-  - Front-End: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white">
-  - Back-End: <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white">
-  - Database: <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  - Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-- 사용 기술: Spring MVC Pattern, Spring Security, Ajax, OpenAPI, MyBatis, Elasticsearch, Web Socket, Modal, Restful API, Tiles
-- 개발 일정: 2023.12.18 ~ 2023.12.27(10일)
-- 벤치마킹: 롯데월드 웹사이트(https://adventure.lotteworld.com/kor/main/index.do)
+- **프로젝트명**: DD Land
+- **분류**: Spring Project
+- **주제**: Spring Framework를 활용하여 제작한 놀이공원(DD Land) 웹사이트입니다. Servlet/JSP Project로 제작한 웹사이트를 기반으로 기존 대비 향상된 관리자/사용자 인터페이스를 제공합니다.
+- **개발 환경**: HTML, CSS, JavaScript, jQuery, JSP, Java, Oracle Database 11g, Spring Tool Suite 3, Bootstrap, SQL Developer, DBeaver, eXERD, Draw.io, Google Drive, Git, GitHub, Sourcetree, AWS(EC2), Apache Tomcat
+- **사용 기술**: Spring MVC Pattern, Spring Security, Ajax, OpenAPI, MyBatis, Elasticsearch, Web Socket, Modal, Restful API, Tiles
+- **주요 기능**: 액티비티·샵·티켓·할인·커뮤니티·이용 안내 등 조회 기능, 어트랙션 예약 기능, 어트랙션 추천 기능, 티켓 및 기프트샵 상품 구매 기능, 채팅 기능, 관리자 기능
+- **담당 업무**: 액티비티(어트랙션, 영화, 페스티벌, 포토존) 사용자/관리자 기능, Elasticsearch 검색 기능, AWS 배포
+- **프로젝트 기간**: 2023.12.18 ~ 2023.12.27(10일)
+- **벤치마킹**: 롯데월드 웹사이트(https://adventure.lotteworld.com/kor/main/index.do)
   <p><img src="https://github.com/smcha16/dd-land/assets/140796673/4783fe35-a148-4888-9fde-3f7261ea7a0f"></p>
 
 ### ✒️기획 배경
@@ -71,3 +72,12 @@
 - PPT
 - 개발문서
 - 요약본
+
+
+<!-- 
+  - Front-End: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
+  - Back-End: <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white">
+  - Database: <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
+  - Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
+  - Tools: <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white">
+  -->
