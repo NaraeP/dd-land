@@ -63,6 +63,34 @@
 <br>
 
 ### 💻주요 구현 기능
+1. 관리자 기능
+   - 어트랙션 관리
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/fc87f8d9-ccec-4fba-9229-ea762dc47b51" alt="">
+   - 어트랙션 추가
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/f44abdab-096c-49cb-879a-bad710cb6bf7" alt="">
+   - 페스티벌 추가
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/b7a5f0c7-6f10-499d-9ec2-5aab11d2ff93" alt="">
+2. 회원 기능
+   - 어트랙션 예약
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/e9074ddb-54aa-4a16-90dd-f174439eebad" alt="">
+3. 회원/비회원 기능
+   - 어트랙션 목록 조회
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/4c56d3b8-145c-49a4-9bed-fbb9230d7cda" alt="">
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/ff6bf623-09d1-4884-8abf-8bf8b75c547c" alt="">
+   - 어트랙션 상세 조회
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/6c3a5b38-c25a-4cfc-826f-a7198c472dff" alt="">
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/1f1b2cf2-7522-45c9-a98d-a9eb05d34808" alt="">
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/40ec4843-4869-4b8d-b22e-6b2f7c1d83da" alt="">
+   - 어트랙션 예약 제어
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/2db569b9-bcf5-4699-b909-6947b816c0bf" alt="">
+   - 영화 목록 조회
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/2819b34a-2361-4c40-8b2c-42678f4ac46e" alt="">
+   - 영화 상세 조회
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/a5c63398-1f01-4951-9697-256439b25843" alt="">
+   - 페스티벌 목록 조회
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/decd54bf-5bb6-4d28-a418-07d0c0f77656" alt="">
+   - 포토존 목록 조회
+     <img src="https://github.com/smcha16/dd-land/assets/140796673/211d6ba1-506b-4678-9ed2-5746dbb237c2" alt="">
 
 <br>
 
