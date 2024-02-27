@@ -15,15 +15,6 @@
 
 <br>
 
-<!-- 링크 ver. > readme.md 파일로 이동하기 때문에 잠시 보류
-- [📄 프로젝트 개요](https://github.com/NaraeP/dd-land/blob/main/README.md#%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B0%9C%EC%9A%94)
-- [✒️ 기획 배경](https://github.com/NaraeP/dd-land/blob/main/README.md#%EF%B8%8F-%EA%B8%B0%ED%9A%8D-%EB%B0%B0%EA%B2%BD)
-- [📌 구현 목표](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EA%B5%AC%ED%98%84-%EB%AA%A9%ED%91%9C)
-- [👨‍👩‍👧‍👦 업무 분담](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EC%97%85%EB%AC%B4-%EB%B6%84%EB%8B%B4)
-- [💻 주요 구현 기능](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EC%A3%BC%EC%9A%94-%EA%B5%AC%ED%98%84-%EA%B8%B0%EB%8A%A5)
-- [📚 산출물](https://github.com/NaraeP/dd-land/blob/main/README.md#-%EC%82%B0%EC%B6%9C%EB%AC%BC)
--->
-
 ### 📄프로젝트 개요
 - **프로젝트명**: DD Land
 - **분류**: Spring Project
@@ -39,30 +30,30 @@
 <br>
 
 ### ✒️기획 배경
-- **어트랙션 예약**: 방문 당일 희망 시간에 미리 어트랙션을 예약하여 놀이공원 방문객의 편의성 추구
-- **놀이기구 및 코스 추천**: 개개인의 성향에 맞게 놀이기구 또는 코스를 추천하여 새로운 즐거움 추구
-- **기프트샵 판매 물품 구매**: 별도 놀이공원 방문 없이도 공원 내 기프트샵의 판매 물품을 온라인으로 구매 가능하도록 하여 이용자 편의성 및 접근성 향상
-- **Spring MVC Model 및 디자인 패턴 적용**: 효과적인 설계를 위해 디자인 패턴 활용, 계층을 분리하여 유지보수성과 확장성 확보
+1. `어트랙션 예약`: 방문 당일 희망 시간에 미리 어트랙션을 예약하여 놀이공원 방문객의 편의성 추구
+2. `놀이기구 및 코스 추천`: 개개인의 성향에 맞게 놀이기구 또는 코스를 추천하여 새로운 즐거움 추구
+3. `기프트샵 판매 물품 구매`: 별도 놀이공원 방문 없이도 공원 내 기프트샵의 판매 물품을 온라인으로 구매 가능하도록 하여 이용자 편의성 및 접근성 향상
+4. `Spring MVC Model 및 디자인 패턴 적용`: 효과적인 설계를 위해 디자인 패턴 활용, 계층을 분리하여 유지보수성과 확장성 확보
 
 <br>
 
 ### 📌구현 목표
- - **사용자 친화적인 디자인 제공**
+1. `사용자 친화적인 디자인 제공`
    - 회원/관리자 페이지 구분하여 별도 분리
    - 반응형 웹을 활용한 모바일 최적화 제공
- - **Web Socket 및 Open API 활용**
+2. `Web Socket 및 Open API 활용`
    - 사용자들간의 실시간 소통을 위해 Web Socket을 활용하여 채팅 기능 구현
    - Open API를 사용하여 외부 데이터를 통한 다양한 정보 제공
- - **Spring Security를 활용하여 인증 및 권한 부여**
+3. `Spring Security를 활용하여 인증 및 권한 부여`
    - Spring Security를 활용하여 회원/관리자별 권한 부여
- - **Elasticsearch 활용**
+4. `Elasticsearch 활용`
    - Elasticsearch를 활용하여 검색 기능 구현
-  
+
 <br>
 
 ### 👨‍👩‍👧‍👦업무 분담
 - 김형우: 요금/혜택, 로그인
-- 박나래: 액티비티
+- **박나래**: 액티비티
 - 이승원: 추천, 월드컵
 - 이정은: 이용가이드, 운휴, 채팅
 - 차민재: 샵, 티켓
@@ -77,21 +68,26 @@
 
 ### 📚산출물
 - 기획서
-- 요구분석서
+- 요구분석서 (48장)
 - 순서도
 - 데이터베이스 설계(ERD)
-- 화면 설계서
-- DDL
-- DML
+- 화면 설계서 (133장)
+- 테이블 정의서(DDL) (71장)
+- 데이터 정의서(DML) (182장)
 - PPT
 - 개발문서
 - 요약본
 
-
-<!-- 
-  - Front-End: <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=java&logoColor=white">
-  - Back-End: <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black"/> <img src="https://img.shields.io/badge/MyBatis-000000?style=flat-square&logo=mybatis&logoColor=white">
-  - Database: <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white">
-  - Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-  - Tools: <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white">
-  -->
+<details>
+    <summary>산출물 미리보기 📷</summary>
+        <div markdown="1">
+            <img src="https://github.com/smcha16/dd-land/assets/140796673/963d71c4-63d9-443f-9337-345d9f3046a2" alt="기획서">
+            <img src="https://github.com/smcha16/dd-land/assets/140796673/0b92d0bd-68f4-462e-a288-40112b8929eb" alt="요구분석서">
+            <img src="https://github.com/smcha16/dd-land/assets/140796673/ef32643e-6abd-48de-b686-4b364395f25b" alt="순서도">
+            <img src="https://github.com/smcha16/dd-land/assets/140796673/5e8eabd2-14d4-43bd-bbfc-b833bd9b9fbf" alt="데이터베이스 설계(ERD)">
+            <img src="https://github.com/smcha16/dd-land/assets/140796673/c2ed6c67-8d0d-47ef-bfe8-496222df9f42" alt="화면설계서">
+            <img src="https://github.com/smcha16/dd-land/assets/140796673/90f3ece6-cc27-4444-8ff8-9152a7f3d496" alt="테이블 정의서(DDL)">
+            <img src="https://github.com/smcha16/dd-land/assets/140796673/2a06c9bb-b4ac-412a-9fe4-c98ee493fe18" alt="데이터 정의서(DML)">
+            <!-- <img src="" alt="요약본"> -->
+        </div>
+</details>
